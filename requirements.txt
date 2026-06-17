@@ -1,0 +1,25 @@
+# Core data processing
+numpy
+pandas
+openpyxl
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Deep learning
+tensorflow
+torch
+transformers
+datasets
+
+# URL analysis
+requests
+tldextract
+
+# Plotting
+matplotlib
+seaborn
+
+# Optional utilities
+tqdm
